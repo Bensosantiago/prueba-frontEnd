@@ -1,0 +1,28 @@
+body{
+    background-image: url(../img/Banner\ definitivo.jpg);
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    }
+
+
+.navbar.navbar-expand-lg.bg-primary{
+    background-color: rgb(0, 70, 234) transparent;
+}
+i.fa-brands.fa-facebook.fa-2xl:hover{
+color: white;
+}
+i.fa-brands.fa-square-instagram.fa-2xl:hover{
+    color: rgb(145, 2, 93);
+}
+i.fa-brands.fa-linkedin.fa-2xl:hover{
+    color: rgb(40, 0, 240);
+}
+
+.list-group-item{
+    background-color: var(--bs-list-group-bg) transparent;
+    border: var(--bs-list-group-border-width) solid var(--bs-list-group-border-color)transparent; 
+}
+section.about{
+    margin-top: 15rem;
+}
